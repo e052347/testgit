@@ -1,0 +1,5 @@
+This is a test file for exploring GIT.
+Adding another line.
+Adding the third line.
+Adding the fourth line.
+Adding the fifth line.
